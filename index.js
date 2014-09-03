@@ -49,7 +49,12 @@ module.exports = function(sScript, oOptions) {
     aOptions.push("--no-restart-on", oOptions.noRestartOn);
   }
   if (oOptions.debug === true) {
-    aOptions.push("--debug");
+    if(oOptions.debugPort){
+		aOptions.push("--debug=" + oOptions.debugPort);
+	}
+	else{
+		aOptions.push("--debug");
+	}
   }
   if (oOptions.debugBrk === true) {
     aOptions.push("--debug-brk");
