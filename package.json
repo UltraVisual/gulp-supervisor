@@ -39,6 +39,6 @@
     "express": "~4.1"
   },
   "dependencies": {
-    "supervisor": "git+ssh://git@github.com/UltraVisual/node-supervisor.git"
+    "supervisor": "https://git@github.com/UltraVisual/node-supervisor.git"
   }
 }
