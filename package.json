@@ -13,19 +13,19 @@
     "autoload",
     "reload"
   ],
-  "homepage": "https://github.com/leny/gulp-supervisor",
+  "homepage": "https://github.com/UltraVisual/gulp-supervisor",
   "author": "leny <info@flatland.be>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/leny/gulp-supervisor.git"
+    "url": "https://github.com/UltraVisual/gulp-supervisor.git"
   },
   "bugs": {
-    "url": "https://github.com/leny/gulp-supervisor/issues"
+    "url": "https://github.com/UltraVisual/gulp-supervisor/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/leny/gulp-supervisor/blob/master/LICENSE-MIT"
+      "url": "https://github.com/UltraVisual/gulp-supervisor/blob/master/LICENSE-MIT"
     }
   ],
   "main": "index.js",
